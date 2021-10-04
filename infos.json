@@ -1,0 +1,12 @@
+{
+  "displayName" : "Powershellversion",
+  "author" : ["Charlène AUGER"],
+  "contributor" : [],
+  "supportedAgent" : ["Windows"],
+  "version" : "1.0",
+  "licence" : "GPLv2",
+  "description" : {
+    "fr" : "Remonte la version de Powershell",
+    "en" : "Retrieve Powershell version"
+  }
+}

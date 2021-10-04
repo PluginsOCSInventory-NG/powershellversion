@@ -1,0 +1,3 @@
+# Powershellversion
+
+Retrieve Powershell version
