@@ -35,6 +35,7 @@ $list_fields=array(
 	"Version" => "VERSION",
 	"Major" => "MAJOR",
 	"Minor" => "MINOR",
+	"Build" => "BUILD",
 	"Revision" => "REVISION"
 );
 
